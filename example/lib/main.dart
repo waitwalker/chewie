@@ -2,7 +2,7 @@ import 'package:chewie/chewie.dart';
 import 'package:chewie/src/chewie_player.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:video_player/video_player.dart';
+import 'package:videoplayer/video_player.dart';
 
 void main() {
   runApp(
