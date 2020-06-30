@@ -5,7 +5,7 @@ import 'package:chewie/src/cupertino_controls.dart';
 import 'package:chewie/src/material_controls.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:video_player/video_player.dart';
+import 'package:videoplayer/video_player.dart';
 
 class PlayerWithControls extends StatelessWidget {
   PlayerWithControls({Key key}) : super(key: key);
