@@ -16,7 +16,7 @@ dependencies:
   videoplayer:
     git:
       url: https://github.com/waitwalker/video_player.git
-      ref: 'develop'
+      ref: 'master'
   wakelock: ">=0.1.2 <0.2.0"
 
   flutter:
